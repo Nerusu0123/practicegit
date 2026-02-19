@@ -1,5 +1,5 @@
 def sum(a,b):
-    return a+b
+    return a+b+c
 # function 
 def add(a,b):
     return a+b
